@@ -1,0 +1,11 @@
+C:\Users\jobso\Documents\Projects\.NET\.net_webpi\Catalog\bin\Debug\net5.0\publish\Catalog.exe
+C:\Users\jobso\Documents\Projects\.NET\.net_webpi\Catalog\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\jobso\Documents\Projects\.NET\.net_webpi\Catalog\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\jobso\Documents\Projects\.NET\.net_webpi\Catalog\bin\Debug\net5.0\publish\Catalog.dll
+C:\Users\jobso\Documents\Projects\.NET\.net_webpi\Catalog\bin\Debug\net5.0\publish\Catalog.deps.json
+C:\Users\jobso\Documents\Projects\.NET\.net_webpi\Catalog\bin\Debug\net5.0\publish\Catalog.runtimeconfig.json
+C:\Users\jobso\Documents\Projects\.NET\.net_webpi\Catalog\bin\Debug\net5.0\publish\Catalog.pdb
+C:\Users\jobso\Documents\Projects\.NET\.net_webpi\Catalog\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\jobso\Documents\Projects\.NET\.net_webpi\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jobso\Documents\Projects\.NET\.net_webpi\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jobso\Documents\Projects\.NET\.net_webpi\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
